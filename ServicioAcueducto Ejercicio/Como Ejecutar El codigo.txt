@@ -1,0 +1,8 @@
+El codigo es un simple archivo de JS:
+
+1 para ejecutarlo tiene que tener instalado node.js.
+
+2 abrir un terminal en la carpeta donde se encuentra alojado el codigo.
+
+3 escribir en el terminal la siguiente comando: node NombreDelarchivo.js    
+como lo indica en la imagen de referencia.
